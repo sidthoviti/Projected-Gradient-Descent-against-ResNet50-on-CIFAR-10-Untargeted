@@ -1,4 +1,4 @@
-# Projected Gradient Descent against ResNet50 on CIFAR 10 (Untargeted)
+# Projected Gradient Descent against ResNet-50 on CIFAR-10 (Untargeted)
 Projected Gradient Descent (Untargeted) against ResNet-50 on CIFAR-10 - Adversarial Machine Learning
 
 Read about this project on my blog: [Part 3: Projected Gradient Descent (PGD)](https://sidthoviti.com/part-3-projected-gradient-descent-pgd)
